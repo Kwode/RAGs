@@ -4,3 +4,4 @@ openai
 langchain-core
 pypdf
 docx2txt
+chromadb
