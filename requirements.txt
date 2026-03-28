@@ -2,3 +2,5 @@ langchain-openai
 langchain-community
 openai
 langchain-core
+pypdf
+docx2txt
